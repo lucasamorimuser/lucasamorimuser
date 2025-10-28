@@ -12,6 +12,7 @@
   <img align = "center" height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 </div>        
 
-##
+## Contatos
 
-
+E-mail: lucasalvez199@gmail.com
+LinkedIn: Lucas Samuel
