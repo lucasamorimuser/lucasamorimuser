@@ -8,11 +8,18 @@
 
 ## Linguagens que trabalho
 <div style = "display: inline_block"><br>
-  <img align = "center" height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  <img align = "center" height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-</div>        
+  <img align = "center" height = "35" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align = "center" height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" />         
+       
+</div>
+
+## Ferramentas que uso
+
+<div style = "display: inline_block"><br>
+  <img align = "center" height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" /> 
+  <img align = "center" height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+          
+</div>
 
 ## Contatos
 
-E-mail: lucasalvez199@gmail.com
-LinkedIn: Lucas Samuel
