@@ -8,7 +8,7 @@
 
 ## Linguagens que trabalho
 <div style = "display: inline_block"><br>
-  <img align = "center" height = "35" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img align = "center" height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img align = "center" height = "60" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" />         
        
 </div>
