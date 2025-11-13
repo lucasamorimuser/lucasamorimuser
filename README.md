@@ -1,7 +1,8 @@
 # Olá! Sou Lucas Amorim, Analista de Dados Júnior
 
-Estou em busca da minha primeira oportunidade como Analista de Dados Júnior para iniciar minha carreira no ramo de dados.
-Minha experiencia trabalhando com dados se iniciou na industria alimenticia onde desenvolvi habilidades com Excel e Power Bi cronstruindo ferramentas e relatórios que auxiliaram equipes de melhoria contínua, gerência e diretoria nas tomadas de decisão.
+Estou em busca da primeira oportunidade como Analista de Dados Júnior a fim de iniciar a carreira no ramo de dados.
+
+Minha experiencia trabalhando com dados se iniciou na indústria alimentícia onde desenvolvi habilidades com Excel e Power Bi construindo ferramentas e relatórios que auxiliaram equipes de melhoria contínua, gerência e diretoria nas tomadas de decisão.
 
 ## Cursos e Formações
 
@@ -29,12 +30,10 @@ Minha experiencia trabalhando com dados se iniciou na industria alimenticia onde
 
 ## Trabalhos
 
-🧹 Data Cleaning com Python - 
+🧹 Data Cleaning com Python - https://github.com/lucasamorimuser/Data-Cleaning-com-Python
 
-📈 Análise Gráfica - 
+📈 Análise Gráfica - https://github.com/lucasamorimuser/Graficos-com-Matplotlib
 
-📋 Relatórios Estruturados - 
-
-⛏️ Consultas e Extração de dados com SQL - 
+⛏️ Consultas e Extração de dados com SQL - https://github.com/lucasamorimuser/Consultas-SQL
 
 
