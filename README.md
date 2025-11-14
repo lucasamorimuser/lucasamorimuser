@@ -2,7 +2,7 @@
 
 Estou em busca da primeira oportunidade como Analista de Dados Júnior para iniciar a carreira no ramo de dados.
 
-Minha experiencia trabalhando com dados se iniciou na indústria alimentícia onde desenvolvi habilidades com Excel e Power Bi construindo ferramentas e relatórios que auxiliaram equipes de melhoria contínua, gerência e diretoria nas tomadas de decisão.
+Minha experiencia trabalhando com dados se iniciou na indústria alimentícia onde desenvolvi habilidades com Excel e Power Bi construindo ferramentas e relatórios que auxiliaram equipes de melhoria contínua, gerentes e diretoria nas tomadas de decisão.
 
 ## Cursos e Formações
 
