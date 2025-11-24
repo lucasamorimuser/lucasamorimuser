@@ -1,6 +1,6 @@
 # Olá! Sou Lucas Amorim, Analista de Dados Júnior
 
-Minha experiencia trabalhando com dados se iniciou em 2023 na indústria alimentícia onde desenvolvi habilidades com Excel e Power Bi construindo ferramentas e relatórios que auxiliaram equipes de melhoria contínua, gerentes e diretoria nas tomadas de decisão.
+Minha experiencia trabalhando com dados se iniciou em 2023 na indústria alimentícia onde desenvolvi habilidades com Excel e Power BI construindo ferramentas e relatórios que auxiliaram equipes de melhoria contínua, gerentes e diretoria nas tomadas de decisão.
 
 ## Cursos e Formações
 
@@ -8,7 +8,7 @@ Minha experiencia trabalhando com dados se iniciou em 2023 na indústria aliment
 
 - Formação Data Science – Alura
 
-- Formação Power Bi - Alura
+- Formação Power BI - Alura
 
 - Formação Conhecendo SQL – Alura
 
@@ -30,7 +30,9 @@ Minha experiencia trabalhando com dados se iniciou em 2023 na indústria aliment
 
 🧹 Data Cleaning com Python - https://github.com/lucasamorimuser/Data-Cleaning-com-Python
 
-📈 Análise Gráfica - https://github.com/lucasamorimuser/Graficos-com-Matplotlib
+📈 Gráficos com Python - https://github.com/lucasamorimuser/Graficos-com-Matplotlib
+
+📈 Dashboards com Power BI - https://github.com/lucasamorimuser/Dashboard-de-Vendas / https://github.com/lucasamorimuser/Dashboard-RH
 
 ⛏️ Consultas e Extração de dados com SQL - https://github.com/lucasamorimuser/Consultas-SQL
 
