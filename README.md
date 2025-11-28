@@ -1,4 +1,4 @@
-# Olá! Sou Lucas Amorim, Analista de Dados Júnior
+# Olá! Sou Lucas Amorim, Analista de Dados
 
 Minha experiencia trabalhando com dados se iniciou em 2023 na indústria alimentícia onde desenvolvi habilidades com Excel e Power BI construindo ferramentas e relatórios que auxiliaram equipes de melhoria contínua, gerentes e diretoria nas tomadas de decisão.
 
