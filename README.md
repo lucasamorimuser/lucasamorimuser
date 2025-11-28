@@ -32,7 +32,7 @@ Minha experiencia trabalhando com dados se iniciou em 2023 na indústria aliment
 
 📈 Gráficos com Python - https://github.com/lucasamorimuser/Graficos-com-Matplotlib
 
-📈 Dashboards com Power BI - https://github.com/lucasamorimuser/Dashboard-de-Vendas / https://github.com/lucasamorimuser/Dashboard-RH
+📈 Dashboards com Power BI - https://github.com/lucasamorimuser/Dashboard-de-Vendas / https://github.com/lucasamorimuser/Dashboard-RH / https://github.com/lucasamorimuser/Painel-Logistica
 
 ⛏️ Consultas e Extração de dados com SQL - https://github.com/lucasamorimuser/Consultas-SQL
 
